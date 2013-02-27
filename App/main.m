@@ -2,7 +2,7 @@
 //  main.m
 //  App
 //
-//  Created by Tanisha Greene on 5/21/12.
+//  Created by Omar Greene on 5/21/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
