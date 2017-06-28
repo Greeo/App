@@ -1,3 +1,3 @@
 # App
-# IOS Application
-# Game Design interface. 
+IOS Application
+Game Design interface. 
